@@ -123,7 +123,7 @@ const ProductCard = ({ product }) => {
                       </button>
                     </div>
                   </form>
-
+                  <hr />
                   {/* </Modal> */}
                 </div>
               </div>
